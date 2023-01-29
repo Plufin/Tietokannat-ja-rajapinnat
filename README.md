@@ -1,2 +1,1 @@
-# Tietokannat-ja-rajapinnat
-# Tietokannat-ja-rajapinnat
+Paulan kotiläksyt :))
