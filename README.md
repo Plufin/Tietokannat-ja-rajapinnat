@@ -1,1 +1,1 @@
-Paulan kotiläksyt :))
+Tietokannat ja rajapinnat kotitehtävien palautukset. :)
