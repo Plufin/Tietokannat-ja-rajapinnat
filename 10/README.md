@@ -1,3 +1,4 @@
+```sql
 1)
 mysql> SELECT Etunimi, Sukunimi, Nimi, Arvosana
     -> FROM Opiskelija
@@ -67,3 +68,4 @@ mysql> SELECT Nimi
 | Kemia |
 +-------+
 1 row in set (0.00 sec)
+```
